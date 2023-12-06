@@ -28,6 +28,6 @@ gcc -c -o lista.o lista.c
 gcc -c -o exportador.o exportador.c  
 gcc -c -o editor.o editor.c
 
-e após isso compilados em conjunto: 
+e após isso compilados em conjunto:  
 gcc -o gerador gerador.o lista.o  
 gcc -o editor editor.o lista.o.
