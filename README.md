@@ -1,5 +1,5 @@
 # Execução
-./gerador <nome do arquivo .txt> <nome do arquivo .bin>
+./gerador <nome do arquivo .txt> <nome do arquivo .bin>\n
 ./editor <nome do arquivo binario entrada> <nome do arquivo binario saida>
 ./exportador <nome do arquivo .bin> <nome do arquivo.txt>
 
