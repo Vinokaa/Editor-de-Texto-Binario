@@ -1,7 +1,7 @@
 # Execução
 ./gerador <nome do arquivo .txt> <nome do arquivo .bin>  
-./editor <nome do arquivo binario entrada> <nome do arquivo binario saida>  
-./exportador <nome do arquivo .bin> <nome do arquivo.txt>
+./editor <nome do arquivo .bin entrada> <nome do arquivo .bin saida>  
+./exportador <nome do arquivo .bin> <nome do arquivo .txt>
 
 
 # Descrição
