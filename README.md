@@ -1,5 +1,3 @@
-# Editor-de-Texto-Bin-rio
-
 # Execução
 ./gerador <nome do arquivo .txt> <nome do arquivo .bin>
 ./editor <nome do arquivo binario entrada> <nome do arquivo binario saida>
