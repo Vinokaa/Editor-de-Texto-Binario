@@ -24,10 +24,10 @@ Converte o arquivo binário para um arquivo de texto novamente.
 O armazenamento dos dados durante a execução dos programas é feito utilizando linked lists com armazenamento em memória dinâmica.
 
 Caso queira compilar os arquivos fonte, os arquivos lista.c, gerador.c e editor.c devem ser compilados para objetos (arquivo .o):
-gcc -c -o lista.o lista.c
-gcc -c -o exportador.o exportador.c
+gcc -c -o lista.o lista.c  
+gcc -c -o exportador.o exportador.c  
 gcc -c -o editor.o editor.c
 
 e após isso compilados em conjunto: 
-gcc -o gerador gerador.o lista.o
+gcc -o gerador gerador.o lista.o  
 gcc -o editor editor.o lista.o.
