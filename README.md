@@ -11,13 +11,13 @@ Um conjunto de três programas para editar um arquivo de texto composto por um c
 # Funcionamento Individual
 
 - gerador.exe
-Realiza a leitura de um arquivo de texto e o converte para um arquivo binário.
+   - Realiza a leitura de um arquivo de texto e o converte para um arquivo binário.
 
 - editor.exe
-Realiza a leitura do arquivo binário gerado pelo gerador.exe e disponibiliza algumas operações sobre esses dados, como consulta, inserção, remoção,  e busca.
+   - Realiza a leitura do arquivo binário gerado pelo gerador.exe e disponibiliza algumas operações sobre esses dados, como consulta, inserção, remoção,  e busca.
 
 - exportador.exe
-Converte o arquivo binário para um arquivo de texto novamente.
+   - Converte o arquivo binário para um arquivo de texto novamente.
 
 
 # Observações
